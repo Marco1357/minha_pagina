@@ -1,0 +1,46 @@
+/*@font-face {
+    font-family: "BrushScript";
+    src: url("../fonts/BrushScript.ttf") format("truetype");
+}*/
+* {
+    color: rgb(248, 245, 245);
+   /* font-family: "BrushScript";
+    font-size: 26px;
+    line-height: 15px;*/
+}
+body {
+    color: #383c3f;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    background-color:rgb(85, 54, 54);
+    font-family: 'Shizuru',cursive;
+}        
+
+.topo {  
+    
+    text-align: center;
+    color: yellow;
+}
+
+   
+
+.cabecalho {
+    padding-top: 25px;
+    color: rgb(215, 218, 68);
+    
+}
+
+.container {
+    margin: 0 80px 0 50px;
+    font-size: 18px;
+    
+}
+
+img {
+    width: 280px;
+}
+
+.email {
+    color: rgb(212, 31, 31);
+}
